@@ -1,4 +1,4 @@
-Sure, you can use a configuration file, such as a JSON or YAML file, to define the values for substitution. Here's an example using a JSON configuration file:
+You can use a configuration file, such as a JSON or YAML file, to define the values for substitution. Here's an example using a JSON configuration file:
 
 Let's say you have a JSON file named `config.json` with the following content:
 
